@@ -1,4 +1,5 @@
-The program is a Random Password Generator implemented in C#.
+**RANDOM PASSWORD GENERATOR**
+
 It prompts the user for the desired number of digits for the password and whether to include special characters.
 It then generates a random password based on the user's input and displays the generated password.
 
